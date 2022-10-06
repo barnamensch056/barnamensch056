@@ -3,23 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barnamensch056&label=Profile%20views&color=0e75b6&style=flat" alt="barnamensch056" /> </p>
 
-- 👀 I’m interested in **Data Structures and Algorithms and Backend Devolopment**
+- 👀 I’m interested in **Data Structures, Algorithms and Backend Devolopment.**
 
-- 🌱 I’m currently learning **C#, .Net, Javasript**
+- 🌱 I’m currently learning **C#, .Net, Javasript.**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate on **open source projects.**
 
-- 🤝 I’m looking for help with **machine learning, DSA problems**
+- 🤝 I’m looking for help with **machine learning, DSA problems.**
 
 - 📝 I write articles on [https://auth.geeksforgeeks.org/user/barnadipdey2510/articles](https://auth.geeksforgeeks.org/user/barnadipdey2510/articles)
 
-- 💬 Ask me about **Data Structures and Algo, CS fundamentals, ML**
+- 💬 Ask me about **Data Structures and Algo, CS fundamentals, ML.**
 
 - 📫 How to reach me **barnadipdey2510@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fBoKPeuAuw1rtKc8fCzdzazW_4YYxKXV/view?usp=sharing](https://drive.google.com/file/d/1fBoKPeuAuw1rtKc8fCzdzazW_4YYxKXV/view?usp=sharing)
 
-- ⚡ Fun fact **What if you wanted to go to heaven but God said to revert pushed commits**
+- ⚡ Fun fact **What if you wanted to go to heaven but God said to revert pushed commits.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
