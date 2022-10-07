@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **machine learning, DSA problems.**
 
-- 📝 I write articles on [https://auth.geeksforgeeks.org/user/barnadipdey2510/articles](https://auth.geeksforgeeks.org/user/barnadipdey2510/articles)
+- 📝 I write articles on [Geeksforgeeks Write Platform.](https://auth.geeksforgeeks.org/user/barnadipdey2510/articles)
 
 - 💬 Ask me about **Data Structures and Algo, CS fundamentals, ML.**
 
 - 📫 How to reach me **barnadipdey2510@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fBoKPeuAuw1rtKc8fCzdzazW_4YYxKXV/view?usp=sharing](https://drive.google.com/file/d/1fBoKPeuAuw1rtKc8fCzdzazW_4YYxKXV/view?usp=sharing)
+- 📄 Know about my experiences [Resume/CV.](https://drive.google.com/file/d/1fBoKPeuAuw1rtKc8fCzdzazW_4YYxKXV/view?usp=sharing)
 
 - ⚡ Fun fact **What if you wanted to go to heaven but God said to revert pushed commits.**
 
