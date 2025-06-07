@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in **Data Structures, Algorithms and Backend Devolopment.**
 
-- 🌱 I’m currently learning **Java, Data Warehouse.**
+- 🌱 I’m currently learning **Java, Data Warehouse,AWS.**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
